@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+📫 How to reach me:
+julius.zlioba@connect724.at
+
 <!--
 **zliobaju/zliobaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
